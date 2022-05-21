@@ -22,6 +22,6 @@
     "homepage": ".",
     "display": "fullscreen",
     "theme_color": "#2C2C2D",
-    "background_color": "#1B1B1B"
+    "background_color": "#1B1B1B",
     "display_override": ["window-controls-overlay"]
 }
